@@ -9,6 +9,7 @@ This directory contains:
 # Contributor
 
 Gregory Ditzler [gregory.ditzler@gmail.com]
+Srishti Gupta [srishti0112gupta@gmail.com]
 
 # Citing the work
 
